@@ -1,0 +1,16 @@
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/bin/Debug/net5.0/uri_1046
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/bin/Debug/net5.0/uri_1046.deps.json
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/bin/Debug/net5.0/uri_1046.runtimeconfig.json
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/bin/Debug/net5.0/uri_1046.runtimeconfig.dev.json
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/bin/Debug/net5.0/uri_1046.dll
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/bin/Debug/net5.0/ref/uri_1046.dll
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/bin/Debug/net5.0/uri_1046.pdb
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/uri_1046.csprojAssemblyReference.cache
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/uri_1046.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/uri_1046.AssemblyInfoInputs.cache
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/uri_1046.AssemblyInfo.cs
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/uri_1046.csproj.CoreCompileInputs.cache
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/uri_1046.dll
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/ref/uri_1046.dll
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/uri_1046.pdb
+/run/media/ronn/HOME/Programação/CSharp/Udemy-Curso/modulo_02/uri_1046/obj/Debug/net5.0/uri_1046.genruntimeconfig.cache
